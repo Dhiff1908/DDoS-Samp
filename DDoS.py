@@ -25,7 +25,10 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        ]
 
 
-print("Mengirim Tokopedia Ke: %s e Port: %s"%(orgip,port))
+print("==================================================")
+print("Mengirim Tokopedia Ke: %s Dan Susu Ke: %s"%(orgip,port))
+print("Selamat Menikmati Tokopedia nya Dan Susu Nya :)")
+print("==================================================")
 
             
 
