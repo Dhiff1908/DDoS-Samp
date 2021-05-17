@@ -71,5 +71,5 @@ if __name__ == '__main__':
          print('DDoS Samp Android')
          print('#########################################################################')
          print('\n\n')
-         print('Ataque para ip {} foi parado'.format(orgip))
+         print('Attack Ke Ip {} Waw'.format(orgip))
          pass
