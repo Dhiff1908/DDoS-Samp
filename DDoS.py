@@ -26,8 +26,10 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
 
 
 print("==================================================")
-print("Mengirim Tokopedia Ke: %s Dan Susu Ke: %s"%(orgip,port))
-print("Selamat Menikmati Tokopedia nya Dan Susu Nya :)")
+print("Berikut Ip Dan Port Yang Mau Kalian Kasih Sumbangan")
+print("Memberi Makanan Ke: %s Dan Memberi Jajan Ke: %s"%(orgip,port))
+print("Selamat Menikmati Makanan nya :)")
+print("== Tools KULKAS X DHIF208 ==")
 print("==================================================")
 
             
